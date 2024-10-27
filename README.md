@@ -12,5 +12,7 @@ To get started, follow these steps:
     bash
 
     sudo pacman -S hyprland kitty brightnessctl waybar wofi otf-font-awesome nerd-fonts playerctl
+Preview:
+![Alt text](https://github.com/leader1gnite/Hypland-dotfiles/blob/main/Screenshots/image_2024-10-27_20-07-27.png)
 
 KDE Plasma is included for theme configuration and serves as a fallback in case this configuration encounters any issues.
