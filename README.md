@@ -1,6 +1,6 @@
 Hypland Dotfiles
 
-Welcome to Hypland Dotfiles! This is a minimal configuration for Hyprland, designed primarily for beginner usage. Please note that it may evolve over time.
+Welcome to Hyprland Dotfiles! This is a minimal configuration for Hyprland, designed primarily for beginner usage. Please note that it may evolve over time.
 Installation Instructions
 
 To get started, follow these steps:
