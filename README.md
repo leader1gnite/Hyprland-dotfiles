@@ -11,6 +11,6 @@ To get started, follow these steps:
 
     bash
 
-    sudo pacman -S hyprland kitty brightnessctl waybar wofi
+    sudo pacman -S hyprland kitty brightnessctl waybar wofi otf-font-awesome nerd-fonts
 
 KDE Plasma is included for theme configuration and serves as a fallback in case this configuration encounters any issues.
