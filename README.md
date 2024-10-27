@@ -1,5 +1,16 @@
-# Hypland-dotfiles
-This is Hyprland minimal rice just for star usage, something may change with time.
-Just install Arch with kde plasma preinstalled and then:
-sudo pacman -S hyprland kitty brightnessctl waybar wofi
-Plasma should be for theme configuration(ecosystem) and in situation if this config will crash.
+Hypland Dotfiles
+
+Welcome to Hypland Dotfiles! This is a minimal configuration for Hyprland, designed primarily for beginner usage. Please note that it may evolve over time.
+Installation Instructions
+
+To get started, follow these steps:
+
+    Install Arch Linux with KDE Plasma preinstalled.
+
+    Run the following command to install the necessary packages:
+
+    bash
+
+    sudo pacman -S hyprland kitty brightnessctl waybar wofi
+
+KDE Plasma is included for theme configuration and serves as a fallback in case this configuration encounters any issues.
