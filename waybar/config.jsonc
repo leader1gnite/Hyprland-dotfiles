@@ -80,7 +80,7 @@
 	"network": {
 	  // "interface": "wlp2*", // (Optional) To force the use of this interface
 	  "interval": 1,
-	  "format-wifi": "  {bandwidthTotalBytes:>2}", //({essid} {signalStrength}%)
+	  "format-wifi": " {bandwidthTotalBytes:>2}", //({essid} {signalStrength}%)
 	  "format-ethernet": "{ipaddr}/{cidr} ",
 	  "tooltip-format-wifi": " {ipaddr} ({signalStrength}%)",
 	  "tooltip-format": "{ifname} via {gwaddr} ",
@@ -94,7 +94,7 @@
         "format-bluetooth": "{volume}% {icon} {format_source}",
         "format-bluetooth-muted": " {icon} {format_source}",
         "format-muted": " {format_source}",
-        "format-source": "{volume}% ",
+        "format-source": " {volume}% ",
         "format-source-muted": "",
         "format-icons": {
             "headphone": "",
