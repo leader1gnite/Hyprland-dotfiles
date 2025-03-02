@@ -11,7 +11,7 @@ To get started, follow these steps:
 
     bash
 
-    sudo pacman -S hyprland kitty brightnessctl waybar wofi otf-font-awesome nerd-fonts playerctl
+    sudo pacman -S hyprland kitty brightnessctl waybar wofi otf-font-awesome nerd-fonts playerctl hyprpaper grim slurp
 Preview:
 ![Alt text](https://github.com/leader1gnite/Hypland-dotfiles/blob/main/Screenshots/image_2024-10-27_20-07-27.png)
 
